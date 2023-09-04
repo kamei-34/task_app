@@ -20,5 +20,3 @@ class Post extends Model
     'body',
     ];
 }
-
-
